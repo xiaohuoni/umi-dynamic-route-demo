@@ -1,0 +1,7 @@
+{
+  "name": "umi-dynamic-route-demos",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  }
+}

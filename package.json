@@ -1,0 +1,18 @@
+{
+  "name": "umi-dynamic-route-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd examples/umi3 && pnpm dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "umi": "^4.0.36"
+  }
+}
